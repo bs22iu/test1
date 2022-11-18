@@ -1,3 +1,10 @@
+# Build settings
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 theme: jekyll-theme-minimal
 title: Indiana University Network Science Institute
 description: Project Documentation
