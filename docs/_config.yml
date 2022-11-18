@@ -22,6 +22,10 @@ collections:
 
 baseurl: '/test1'
 
+header_pages:
+  - _pages/add-a-new-page.md
+  - _pages/configure-the-guide.md
+
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
