@@ -9,7 +9,7 @@ collections:
     output: true
     permalink: /:path/
 
-baseurl: '/test1'
+baseurl: '/test1/docs'
 
 # Navigation
 # List links that should appear in the site sidebar here
