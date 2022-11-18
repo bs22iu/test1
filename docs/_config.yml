@@ -12,6 +12,17 @@ description: Project Documentation
 
 logo: "assets/favicon-194x194.png" # path of site logo, e.g. "/assets/images/logo.png"
 
+---
+  defaults:
+    # _docs
+    - scope:
+        path: ""
+        type: main
+      values:
+        sidebar:
+          nav: "main"
+  ---   
+
 #include:
 #  - _pages
   
