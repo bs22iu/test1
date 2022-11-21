@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: pages
 title: Add a New Page
+permalink: /_pages/
+collection: pages
 ---
 To add new pages, create a 
 [Markdown](http://daringfireball.net/projects/markdown/syntax) file in the
