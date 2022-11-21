@@ -1,3 +1,16 @@
+---
+defaults:
+  # _pages
+  - scope:
+    path: ""
+    type: pages
+  values:
+    permalink: /:pages/:path/ # make URL of pages in the folder _pages as on the root.
+    #layout: single
+    #sidebar:
+      #nav: "main"
+---
+
 # Build settings
 include: ["_pages"]
 markdown: kramdown
@@ -12,16 +25,7 @@ description: Project Documentation
 
 logo: "assets/favicon-194x194.png" # path of site logo, e.g. "/assets/images/logo.png"
 
-#---
-#  defaults:
-#    # _docs
-#    - scope:
-#        path: ""
-#        type: main
-#      values:
-#        sidebar:
-#          nav: "main"
-#  ---   
+
 
 #include:
 #  - _pages
@@ -29,7 +33,8 @@ logo: "assets/favicon-194x194.png" # path of site logo, e.g. "/assets/images/log
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: /:pages/:path/
+    #permalink: /:path/
 
 baseurl: '/test1'
 
