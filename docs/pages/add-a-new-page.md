@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Add a New Page
 ---
 To add new pages, create a 
