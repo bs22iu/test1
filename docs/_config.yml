@@ -18,9 +18,9 @@ kramdown:
 collections:
   pages:
     output: true
-    #permalink: /:pages/:path/
+    permalink: /:pages/:path/
     #permalink: /:path/
-    permalink: /:name/
+    #permalink: /:name/
 
 baseurl: '/test1'
 
