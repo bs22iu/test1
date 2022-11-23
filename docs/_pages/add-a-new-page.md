@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Add a New Page
+permalink: /:name
 ---
 To add new pages, create a 
 [Markdown](http://daringfireball.net/projects/markdown/syntax) file in the
