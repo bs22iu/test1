@@ -2,7 +2,6 @@
 
 # **Project Title**
 
-[Link to another page](/pages/add-a-new-page.html).
 
 ## **Table of Contents**
 
