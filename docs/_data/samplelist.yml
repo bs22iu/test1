@@ -1,0 +1,11 @@
+docs_list_title: Other Documentation
+docs:
+
+- title: add new page
+  url: pages/add-a-new-page.md
+
+- title: configure guide
+  url: pages/configure-the-guide.md
+
+- title: github
+  url: pages/github.md

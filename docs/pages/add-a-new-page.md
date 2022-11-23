@@ -1,8 +1,6 @@
 ---
-layout: pages
+layout: page
 title: Add a New Page
-permalink: /_pages/
-collection: pages
 ---
 To add new pages, create a 
 [Markdown](http://daringfireball.net/projects/markdown/syntax) file in the
@@ -33,9 +31,6 @@ appears in the Markdown source as:
 ~~~
 
 ## Next steps
-
-Click the _Update the config file_ entry in the table of contents to learn how
-to configure your guide.
 
 Click the _Update the config file_ entry in the table of contents to learn how
 to configure your guide.
