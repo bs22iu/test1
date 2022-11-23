@@ -2,9 +2,7 @@
 
 # **Project Title**
 
-[Link to another page](./another-page.html).
-
-[Link to another page](./pages/add-a-new-page.html).
+[Link to another page](/pages/add-a-new-page.html).
 
 ## **Table of Contents**
 
