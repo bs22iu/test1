@@ -1,4 +1,33 @@
----
+theme: jekyll-theme-minimal
+title: Indiana University Network Science Institute
+description: Project Documentation
+
+logo: "assets/favicon-194x194.png" # path of site logo, e.g. "/assets/images/logo.png"
+
+# Build settings
+include: ["_pages", "pages"]
+# include: - _pages
+
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+
+collections:
+  pages:
+    output: true
+    #permalink: /:pages/:path/
+    #permalink: /:path/
+
+baseurl: '/test1'
+
+header_pages:
+  - _pages/add-a-new-page.md
+  - _pages/configure-the-guide.md
+
+
 defaults:
   # _pages
   - 
@@ -11,36 +40,6 @@ defaults:
       layout: default
       #sidebar:
         #nav: "main"
----
-
-# Build settings
-include: ["_pages", "pages"]
-markdown: kramdown
-
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
-theme: jekyll-theme-minimal
-title: Indiana University Network Science Institute
-description: Project Documentation
-
-logo: "assets/favicon-194x194.png" # path of site logo, e.g. "/assets/images/logo.png"
-
-
-# include: - _pages
-  
-collections:
-  pages:
-    output: true
-    #permalink: /:pages/:path/
-    #permalink: /:path/
-
-baseurl: '/test1'
-
-header_pages:
-  - _pages/add-a-new-page.md
-  - _pages/configure-the-guide.md
 
 ## Navigation
 ## List links that should appear in the site sidebar here
