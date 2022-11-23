@@ -2,7 +2,6 @@
 
 # **Project Title**
 
-
 ## **Table of Contents**
 
 - [About](#About)
