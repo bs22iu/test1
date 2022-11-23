@@ -35,7 +35,7 @@ defaults:
       path: ""
       type: pages
     values:
-      #permalink: /:path/ # make URL of pages in the folder _pages as on the root.
+      permalink: /:path/ # make URL of pages in the folder _pages as on the root.
       #permalink: /:pages/:path/ # make URL of pages in the folder _pages as on the root.
       layout: default
       #sidebar:
