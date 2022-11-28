@@ -41,7 +41,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 Add notes about how to use the system.
 
-## Contributing (if applicable)
+## **Contributing (if applicable)**
 
 Submitting Changes: Add brief guide for contributors
 
